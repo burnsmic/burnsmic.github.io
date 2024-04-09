@@ -1,0 +1,18 @@
+---
+title: "Phylogenomic relationshiops of the superfamily Anostomoidea"
+description: | 
+  Subtitle versus intertidal habitat
+date: 06-01-2018
+categories: [macroevolution, phylogenomics, Anostomoidea] 
+image: ansp39324-leporinus-desmotes-holotype_orig.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+Superfamily Anostomoidea is a hyperdiverse clade of approximately 270 fish species divided unevenly into four families .  The two most speciose, Anostomidae and Curimatidae, differ greatly in ecomorphological diversity.  The anostomid species eat a variety of foods including plants, algae, macroinvertebrates, sponges and small fishes and exhibit lots of morphological diversity. While the curimatids are strictly detritivorous fishes with a limited morphological diversity. Members of Prochilodontidae share the detritivorous habits of the curimatids and vary little in morphology and chilodontids feed mostly on detritus and invertebrates.
+
+The variation in species numbers and ecomorphological diversity make the Anostomoidea an ideal group to test different macroevolutionary hypotheses. However, a time calibrated molecular phylogeny does not exist for the group. Members of the Sidlauskas Lab and numerous collaborators are in the process of generating two different molecular trees for the group: a traditional six gene Sanger sequenced tree and next gene phylogenomic tree using Ultraconserved Elements (UCE's). We are hoping to get the two different manuscripts out this summer!  
+
+![](ansp39324-leporinus-desmotes-holotype_orig.jpg)
+
+

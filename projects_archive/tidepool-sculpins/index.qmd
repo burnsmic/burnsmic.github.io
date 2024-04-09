@@ -1,0 +1,24 @@
+---
+title: "Morphological diversification in tidepool sculpins"
+description: | 
+  Subtitle versus intertidal habitat
+date: 06-01-2018
+categories: [macroevolution, ecology, sculpins] 
+image: clinocottus-globiceps-osic-272-70-5_orig.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+Many marine fish lineages show sister species or sister clade relationships between subtidal and intertidal habitat. However, subtidal and intertidal habitat differ greatly in their selective pressures. Fishes in intertidal habitat are intermittently submerged and thus experience large fluctuations in flow, temperature, and oxygen, while subtidal habitat is relatively static with little fluctuation in flow, temperature, or oxygenation. The ecological divergence between sister clades of fishes creates the perfect opportunity to test theories of adaptive evolution and ecological speciation, including the generality of morphological divergence between these two ecoregions.
+
+To understand this phenomenon, we conducted a macroevolutionary analysis examining the morphological divergence between intertidal and subtidal lineages in the sculpin tribe Oligocottinae. We found that the ancestral habitat for oligocottin sculpins was intertidal, with species independently invading the subtidal habitat six times from an intertidal ancestor. Furthermore, subtidal lineages exhibit a more streamlined, elongated shape than their intertidal sister groups, while intertidal species exhibited a wide range of body shapes. 
+
+Buser, T.J., **M.D. Burns**, J. Andres Lopez (In Review) Littorally adaptive? Testing the link between habitat, morphology, and reproduction in the intertidal sculpin subfamily Oligocottinae (Pisces: Cottoidea). PeerJ
+
+Check out the preprint below! 
+
+[https://peerj.com/preprints/2981/](https://peerj.com/preprints/2981/)
+
+![](figure7e-phylomorphospace_orig.jpg)
+
+

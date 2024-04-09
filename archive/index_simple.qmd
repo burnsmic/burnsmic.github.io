@@ -1,0 +1,37 @@
+---
+title: ""
+format: 
+  html: 
+    page-layout: custom
+---
+
+::: grid
+::: g-col-1
+<!-- Left margin -->
+:::
+
+::: g-col-4
+
+![Fig 1: It's me!](img/profile_pic_square.jpg)
+
+:::
+
+::: g-col-6
+
+## Michael D Burns
+
+**Integrated macroevolution of fishes**
+
+Postdoctoral researcher, [Wainwright Lab](https://fishlab.ucdavis.edu/), University of California, Davis.
+
+My research seeks to understand the evolutionary processes that gave rise to the exceptional morphological diversity of fishes, in particular, how morphological and ecological diversity arises at large geographic scales and over deep evolutionary time. I use a multidisciplinary big data approach, combining phylogenomics, quantitative comparative anatomy, ecology, and phylogenetic comparative methods, to compare multiple replicated evolutionary events across independent lineages and diverse geographies. 
+
+[<i class="bi bi-envelope"></i>](mailto:mdburns@ucdavis.edu) [<i class="bi bi-github"></i>](https://github.com/burnsmic) [{{< ai google-scholar >}}](https://scholar.google.com/citations?user=hd9kXzgAAAAJ&hl=en&oi=ao) [{{< ai orcid >}}](https://orcid.org/0000-0002-1381-587X)
+
+<!-- ![Fig 2: It's a phylogeny!](img/phylogeny-trophic-3-2_1.jpg) -->
+:::
+
+::: g-col-1
+<!-- Right margin -->
+:::
+:::

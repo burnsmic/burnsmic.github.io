@@ -1,0 +1,64 @@
+---
+title: "Publications"
+format:
+  html: 
+    css: custom
+page-layout: full
+title-block-banner: true
+editor: source
+---
+
+
+## Publications
+
+Links to many of my publications are available on [Google Scholar](https://scholar.google.com/citations?user=hd9kXzgAAAAJ&hl=en&oi=ao){target="_blank"}. If you are not able to access a PDF, please contact me via email and I would be happy to provide one.
+
+*\*Signifies undergraduate student mentee, †signifies graduate student mentee*
+
+1. **Burns, M.D.** and P.H.N. Bragança. (In Press). Body size evolution in Neotropical freshwater fishes: Patterns and processes of reduction and miniaturization. In: Historical Ecology of Neotropical Freshwater Fishes. Roberto Reis and James Albert, eds. Princeton University Press.
+
+1. **Burns, M.D.**, J.H. Knouft, and C.B. Dillman. (2024). The role of abiotic and biotic factors in the unequal body shape diversification of a Gondwanan fish radiation (Otophysi: Characiformes). *Evolution* 78(2): 253-266. doi: [10.1093/evolut/qpad203](https://academic.oup.com/evolut/article-abstract/78/2/253/7413144){target="_blank"}
+
+2.  †DeHaan, L.M., **M.D. Burns**, J.P. Egan, D.D. Bloom. (2023). Diadromy drives elevated rates of trait evolution and ecomorphological convergence in Clupeiformes (herring, shad, and anchovies). *The American Naturalist* doi: [10.1086/726894](https://www.journals.uchicago.edu/doi/abs/10.1086/726894?journalCode=an){target="_blank"}
+
+3.  **Burns, M.D.**, M.C. Collyer, B.L. Sidlauskas. (2023). Simultaneous integration and modularity underlie the exceptional body shape diversification among characiform fishes. *Evolution* 77(3): 746-762. doi: [10.1093/evolut/qpac070](https://academic.oup.com/evolut/article/77/3/746/6965879){target="_blank"} |  [PDF](https://par.nsf.gov/servlets/purl/10475421){target="_blank"}
+
+4.  †de Brito, V., R. Betancur-R, **M.D. Burns**, T.J. Buser, K.W. Conway, J.P. Fontenelle, M.A. Kolmann, W.T. McCraney, C.E. Thacker, D.D. Bloom. (2022). Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. *Integrative Comparative Biology* 62(2): 406-423. doi: [10.1093/icb/icac085](https://academic.oup.com/icb/article/62/2/406/6604365){target="_blank"}
+
+5.  Melo, B.F., B.L. Sidlauskas, T.J. Near, F.F. Roxo, A. Ghezelayagh, L.E. Ochoa, M.L.J. Stiassny, J. Arroyave, J. Chang, B.C. Faircloth, D.J. MacGuigan, R.C. Harrington, R.C. Benine, **M.D. Burns**, K. Hoekzema, N.C. Sanches, J.A. Maldonado-Ocampo, R.M.C. Castro, F. Foresti, M.E. Alfaro, C. Oliveira. 2021. Accelerated diversification explains the exceptional species richness in tropical Characoid fishes. *Systematic Biology* 71(1): 78-92. doi: [doi.org/10.1093/sysbio/syab040](https://doi.org/10.1093/sysbio/syab040){target="_blank"}
+
+6.  Egan, J.P., T.J. Buser, **M.D. Burns**, A.M. Simons, P.J. Hundt. 2021. Patterns of body shape diversity and evolution in intertidal and subtidal lineages of combtooth blennies (Blenniidae). *Integrative Organismal Biology* 3(1): obab004. doi: [10.1093/iob/obab004](https://doi.org/10.1093/iob/obab004){target="_blank"}
+
+7.  Sidlauskas, B.L., **M.D. Burns**, T.J. Buser, N. Harper, M. Kindred. 2021. Teaching Ichthyology online with a virtual specimen collection. *Ichthyology and Herpetology* 109(2): 407-423. doi:[doi.org/10.1643/t2020031](https://meridian.allenpress.com/copeia/article/109/2/407/465856/Teaching-Ichthyology-Online-with-a-Virtual){target="_blank"}
+
+8.  **Burns, M.D.** (2021). Adaptation to herbivory and detritivory drives the convergent evolution of large abdominal cavities in a diverse freshwater fish radiation (Otophysi: Characiformes). *Evolution* 75(3): 688-705. doi: [10.1111/evo.14178](https://doi.org/10.1111/evo.14178){target="_blank"}
+
+9.  Kolmann, M.A., **M.D. Burns**, \*J. Ng, N.R. Lovejoy, D.D. Bloom. 2020. Habitat transitions alter the adaptive landscape and drive phenotypic evolution in needlefishes. *Ecology and Evolution* 10(8): 3769-3783. doi: [10.1002/ece3.6172](https://doi.org/10.1002/ece3.6172){target="_blank"}
+
+10. Faircloth, B.C., F. Alda, K. Hoekzema, **M.D. Burns**, C. Oliveira, J.S. Albert, B.F. Melo, L.E. Ochoa, F.F. Roxo, P. Chakrabarty, B.L. Sidlauskas, M.E. Alfaro. 2020. A target enrichment bait set for studying relationships among ostariophysan fishes. *Copeia* 108(1): 47-60. doi: [10.1643/CG-18-139](https://doi.org/10.1643/CG-18-139){target="_blank"}
+
+11. **Burns, M.D.** and D.D. Bloom. 2020. Migratory lineages rapidly evolve larger body sizes than non-migratory relatives in ray-finned fishes. *Proceedings of the Royal Society B: Biological Sciences* 287(1918): 20192615. doi: [10.1098/rspb.2019.2615](https://doi.org/10.1098/rspb.2019.2615){target="_blank"}
+
+12. **Burns, M.D.** and B.L. Sidlauskas. 2019. Ancient and contingent body shape diversification in a hyperdiverse continental freshwater fish radiation. *Evolution* 73(3): 569-587. doi: [10.1111/evo.13658](https://doi.org/10.1111/evo.13658){target="_blank"}
+
+13. Bloom, D.D., **M.D. Burns**, and T.A.Schriever. 2018. Evolution of body size and trophic position in migratory fishes: a phylogenetic comparative analysis of Clupeiformes (anchovies, herring, shad and allies). *Biological Journal of the Linnean Society* 125(2): 302-314. doi: [10.1093/biolinnean/bly106](https://doi.org/10.1093/biolinnean/bly106){target="_blank"}
+
+14. **Burns, M.D.** and K.S. Cole. 2017. Reproductive morphology and its application in testing molecular systematic hypotheses in the family Gobiidae (Teleostei: Gobiiformes). *Journal of Fish* Biology\* 91(4): 1094-1108. doi: [10.1111/jfb.13403](https://doi.org/10.1111/jfb.13403){target="_blank"}
+
+15. **Burns, M.D.** 2017. Family Gasteropelecidae- freshwater hatchetfish. In Field guide to the fishes of the Amazon - Fish genera of the Amazon, Orinoco, and Guianas. Peter Van der Sleen and James Albert, eds. Princeton University Press.
+
+16. Buser, T.J., **M.D. Burns**, J. Andres Lopez. 2017. Littorally adaptive? Testing the link between habitat, morphology, and reproduction in the intertidal sculpin subfamily Oligocottinae (Pisces: Cottoidea). *PeerJ* 5:e3634. doi: [10.7717/peerj.3634](https://doi.org/10.7717/peerj.3634){target="_blank"}
+
+17. **Burns, M.D.**, \*M. Chatfield, J.L.O. Birindelli, B.L. Sidlauskas. 2017. Systematic assessment of the *Leporinus desmotes* species complex, with a description of two new species. *Neotropical Ichthyology* 15(2): e160166. doi: [10.1590/1982-0224-20160166](https://doi.org/10.1590/1982-0224-20160166){target="_blank"}
+
+18. \*LaRochelle, C., \*F.A.T. Pickens, **M.D. Burns**, B.L. Sidlauskas. 2016. Long-term Isopropanol storage does not alter fish morphometrics. *Copeia* 104(2):411-420. doi: [10.1643/CG-15-303](https://doi.org/10.1643/CG-15-303){target="_blank"}
+
+19. **Burns, M.D.**, Gilbert, C., M.L. Warren. 2014. Dasyatidae: Whiptail Stingrays. In: North American freshwater fishes: ecology, evolution, and behavior. Eds. B.M. Burr and M.L. Warren. John Hopkins University Press. [Google Books](https://books.google.com/books?hl=en&lr=&id=iUrcAwAAQBAJ&oi=fnd&pg=PA140&dq=info:r8EJu37VVT0J:scholar.google.com&ots=FUe1b4QcfQ&sig=QwnajakurbdChSh6TijIi4VxrOU#v=onepage&q&f=false){target="_blank"}
+
+20. **Burns, M.D.**, B.W. Frable, and B.L. Sidlauskas. 2014. *Leporinus arimaspi*, a new species of *Leporinus* (Characiformes: Anostomidae) from the Orinoco Basin, Venezuela. *Copeia* 2014(2): 206-214. doi: [10.1643/CI-13-071](https://doi.org/10.1643/CI-13-071){target="_blank"}
+
+21. Hopkins II, R.L., **M.D. Burns**, B.M. Burr, and L.J. Hopman. 2009. Building a centralized database for Kentucky fishes: Progress and future applications. *Journal of the Kentucky Academy of Sciences* 69:73-78 doi: [10.3101/1098-7096-69.2.164](https://doi.org/10.3101/1098-7096-69.2.164){target="_blank"}
+
+## Book Reviews
+
+1.  **Burns, M.D.** 2016. A pocket review of a pocket field guide. Environmental Biology of Fishes 99(11): 907-908. doi: [10.1007/s10641-016-0527-4](https://doi.org/10.1007/s10641-016-0527-4){target="_blank"} 

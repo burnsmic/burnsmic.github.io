@@ -1,0 +1,43 @@
+---
+title: "Mentorship"
+page-layout: full
+title-block-banner: true
+editor: source
+---
+
+## Current mentees
+
+#### **Shih-Na Liu**
+
+**2022 - Present** \| Undergraduate student, University of California, Davis.  
+Project: Body shape diversification in coral reef fishes
+
+#### **Victor de Brito**
+
+**2020 - Present** \| PhD student, Western Michigan University  
+Project: Body size evolution during marine-freshwater transitions in ray finned fishes
+
+#### **Lindsey DeHaan**
+
+**2020 - Present** \| Master's student, Western Michigan University  
+Project: The macroevolution of diadromous and non-diadromous Clupeiformes
+
+#### **Fernando Medina**
+
+**2019 - Present** \| Undergraduate student, Cornell University  
+Project: Three-dimensional gut cavity evolution in piranhas and pacus using computed tomographic (CT) data
+
+## Former mentees
+
+-   **Gabriella Commisso (2020-2023)** - PhD student, University of Washington
+-   **Justin Hansen (2016-2019)** - Assistant project leader, ODFW
+    -   Presentations: Hansen, J. and **M.D. Burns**. 2016. Evolution of the axial skeleton in the fish order Characiformes. Gilbert Ichthyology Society Annual Meeting, Blue River, OR (Oral Presentation)
+-   **Francisco Pickens (2013-2016)** - Research staff, OSU
+    -   Publications: LaRochelle, C., F.A.T. Pickens, **M.D. Burns**, B.L. Sidlauskas. 2016 Long-term isopropanol storage does not alter fish morphometrics. *Copeia* 104(2):411-420.
+    -   Presentations: Pickens, F.A.T., Larochelle, C.R., **Burns, M.D.**, and B.L. Sidlauskas. Long-term isopropanol storage does not alter fish morphometrics. RAFWE Symposium, Oregon State University February 2016 (Oral Presentation). *Best undergraduate student talk.*
+-   **Rachel Keefe (2016)** - Postdoctoral Researcher, Mount Holyoke College
+    -   Publications: Keffee, R., T.J. Buser, **M.D. Burns**, and B.L. Sidlauskas. (In Prep) Lower and upper gill arch diversification in the superfamily Anostomoidea (Telesotei: Characiformes). Neotropical Ichthyology
+-   **Marcus Chatfield, MSc (2014-2015)** - Aquatic Resource Coordinator, Oregon Dept of State Lands
+    -   Publications: **Burns, M.D**, M. Chatfield, J.L.O. Birindelli, B.L. Sidlauskas (2017) Systematic assessment of the *Leporinus desmotes* species complex, with a description of two new species. *Neotropical Ichthyology*
+-   **Colette LaRochelle (2013-2015)**
+    -   Publications: LaRochelle, C., F.A.T. Pickens, **M.D. Burns**, B.L. Sidlauskas. 2016 Long-term isopropanol storage does not alter fish morphometrics. *Copeia* 104(2):411-420.

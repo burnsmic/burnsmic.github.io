@@ -1,0 +1,79 @@
+---
+title: "Courses"
+page-layout: full
+title-block-banner: true
+editor: source
+---
+
+## Courses Developed
+
+**Oregon State University FW316: Ecampus: Systematics of Fishes**
+
+::: {layout="[30,70]"}
+
+![Fig 1: Example database entry in the FW316 Systematics of Fishes online collection.](img/systematicsoffishesscreenshot_orig.jpg)
+
+I co-developed a first-of-its-kind Systematics of Fishes course that highlighted phylogenetic diversity, evolution, relationships, and identification of the world's fishes using museum specimens housed at the Oregon State University Ichthyology Collection (OSIC). In addition to using physical specimens in the lab, we also created a digital specimen collection that included thousands of 2D & 3D images (Fig. 1). The digital collection is used to teach the course online and served as a resource for on campus students to study outside of classroom hours. This innovation gives students access to thousands of specimens and transported them to a digital natural history museum with only the click of a button. This allows us to reach a range of non-traditional students, from working parents to overseas service members, that otherwise would not have had access to such a course. An [invited publication](https://meridian.allenpress.com/copeia/article/109/2/407/465856/Teaching-Ichthyology-Online-with-a-Virtual) highlights our approach.
+
+:::
+
+
+
+**Cornell University BIOEE4940: Museums and Evolutionary Biology: Case Studies Using Fishes**
+
+::: {layout="[30,70]"}
+![Fig 2: Example research project from CURE course](img/curescreenshot_orig.jpg)
+
+This course used historical specimens to provide students with a semester long course-based undergraduate research experience (CURE) via hands-on digitization of natural history specimens at the Cornell University Museum of Vertebrates (CUMV). Students gained skills related to data collection, statistical analysis, and written and oral communication. These skills were gained by immersion in all aspects of the scientific method from discussing the primary literature, to developing and testing hypotheses and predictions, to collecting and analyzing data using natural history specimens, and finally communication of their findings through written and oral reports.
+
+:::
+
+**Intro to R Workshop**
+
+-   One-day workshop on introductory topics in R at the Joint Meeting of Ichtyologists and Herpetologists
+
+## Courses Taught
+
+::: {.grid}
+
+::: {.g-col-6}
+**Lecture**
+
+-   Museums and Evolutionary Biology
+-   Organismal Diversity
+-   Icthyology
+-   Evolution
+:::
+
+::: {.g-col-6}
+**Lab**
+
+-   Systematics of Fishes
+-   Icthyology
+-   Limnology
+-   Ecology and Evolution
+-   Marine Biology
+-   General Biology
+:::
+
+:::
+
+
+<!-- ::: {layout="[50, 50]"} -->
+<!-- **Lecture** -->
+
+<!-- -   Museums and Evolutionary Biology -->
+<!-- -   Organismal Diversity -->
+<!-- -   Icthyology -->
+<!-- -   Evolution -->
+
+<!-- **Lab** -->
+
+<!-- -   Systematics of Fishes -->
+<!-- -   Icthyology -->
+<!-- -   Limnology -->
+<!-- -   Ecology and Evolution -->
+<!-- -   Marine Biology -->
+<!-- -   General Biology -->
+
+<!-- ::: -->

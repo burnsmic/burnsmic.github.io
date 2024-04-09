@@ -1,0 +1,16 @@
+---
+title: "Jaw morphology in coral reef fishes"
+description: | 
+  Trade-off in feeding mechanism with jaw shape diversity in coral reef fishes
+date: 04-07-2024
+categories: [functional morphology, macroevolution, feeding ecology, marine] 
+image: feeding_morphospace.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+Coral reef fishes exhibit both dramatic trophic diversity and exceptional body shape diversity. In an effort to better understand the role of trade-offs and complexity as drivers of ecomorphological diversity, we looked at diversification of the feeding mechanism in coral reef fishes. We show that the primary axis of variation in musculo-skeletal traits is aligned with a trade-off between mobility and force transmission, spanning species that capture prey with suction and those that bite attached prey. We found weak or no covariation among about half the traits, facilitating deviations from the trade-off axis. The dramatic trophic diversity found among reef fishes is characterized by a major trade-off between jaws built for biting vs. mobility, with numerous departures along the biting-mobility axis that use diverse trait combinations to adapt the feeding mechanism to diverse challenges.
+
+![Morphospace of known suction feeding species compared to know biting species](feeding_morphospace.jpg){width="60%"}
+
+

@@ -1,0 +1,46 @@
+---
+title: "About Me"
+about:
+  template: trestles
+  image: img/big_catch.jpg
+  links: 
+    - icon: envelope
+      href: mailto:mdburns@ucdavis.edu
+    - icon: github
+      href: https://github.com/burnsmic
+    - text: "{{< ai google-scholar >}}"
+      href: https://scholar.google.com/citations?user=hd9kXzgAAAAJ&hl=en&oi=ao
+    - text: "{{< ai orcid >}}"
+      href: https://orcid.org/0000-0002-1381-587X
+page-layout: full
+title-block-banner: true
+editor: source
+---
+
+## Research Focus
+
+My research takes a multidisciplinary approach to understand the evolutionary processes that gave rise to the exceptional diversity of fishes. Specifically, I am interested in understanding how morphological diversity arises at large geographic scales and over deep evolutionary time. I do this by reconstructing phenotypic evolution across global radiations that encompass hundreds to thousands of fish species. Using a big data approach, I combine phylogenomics, quantitative comparative anatomy, and phylogenetic comparative methods to compare hundreds of replicated evolutionary events across independent lineages and diverse geographies.
+
+<!-- ## Education -->
+
+<!-- **Oregon State University** \| Corvallis, OR -->
+
+<!-- PhD in Fisheries Science \| 2018 -->
+
+<!-- **University of Hawai'i at Mānoa** \| Honolulu, HI -->
+
+<!-- MS in Zoology \| 2012 -->
+
+<!-- **Southern Illinois University** \| Carbondale, IL -->
+
+<!-- BS in Zoology \| 2008 -->
+
+## Research Journey
+
+I received my BS in Zoology from Southern Illinois University, where I was lucky enough to work with Dr. Brooks Burr on taxonomy of freshwater darters and jumped into the world of ichthyology.
+
+From there I completed my Master's at the University of Hawai'i, Mānoa, under the advisement of Dr. Kassi Cole. Aside from learning to surf and honing my beach volleyball skills, I conducted research on the evolution of reproductive morphology and hermaphrodism in Indo-Pacific gobies.
+
+I completed my PhD in the Sidlauskas Lab at Oregon State University in Spring 2018. My dissertation research addressed the tempo and mode of diversification in African and South American characiforms. I combined molecular phylogenomics, comparative morphology, and phylogenetic comparative methods to better understand the evolutionary processes that gave rise to biodiversity.
+
+I built on my PhD research as an Edward W. Rose Postdoctoral Fellow at the Cornell Lab of Ornithology and Cornell University Museum of Vertebrates and I am now a Postdoctoral Researcher in the [Wainwright Lab](https://fishlab.ucdavis.edu/) at the University of California, Davis where I have returned to saltwater and coral reef fishes.

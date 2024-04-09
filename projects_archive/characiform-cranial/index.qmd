@@ -1,0 +1,20 @@
+---
+title: "Cranial evolution in piscivorous characiforms"
+description: | 
+  Repeated cranial evolution in piscivorous Characiformes
+date: 04-05-2024
+categories: [body shape, characiformes] 
+image: head-vs-jaw-burns-paper_orig.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+My dissertation research has found that piscivorous characiforms converge into an elongate body shape. However, we know nothing about how the underlying axial skeleton changes when the fishes elongate.  I am currently working with an undergraduate student, Justin Hansen (see my mentoring section for more info on how awesome Justin is!), to analyze the axial skeleton of piscivorous species and their sister taxa. Justin is using several linear measurements to determine exactly what regions of the body are elongating for piscivorous lineages to converge in overall body shape.
+
+We are in the process of writing up the results and hope to submit the manuscript this summer! 
+
+
+![](jpg-hepsetus-odoe-usnm-304096-usnm-303893-2.jpeg)
+
+![](jpeg-ctenolucius-beani-usnm-078630-220-90_1.jpeg)
+

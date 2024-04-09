@@ -1,0 +1,21 @@
+---
+title: "Characiform body shape diversity across flow habitats"
+description: | 
+  Drivers of morphological disparity in hyperdiverse radiations 
+date: 04-07-2024
+categories: [macroevolution, body shape, characiforms] 
+image: hatchetfish_line_drawing.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+Neotropical characiforms are the most ecomorphologically diverse freshwater fish radiation. Previous research has shown that availability of diverse aquatic habitats has in part driven this extreme diversity [(Burns et al. 2024)](https://academic.oup.com/evolut/article-abstract/78/2/253/7413144). 
+
+We have an ongoing research project where we are looking more closely at how body shape differs across flow habitats and exploring the role of time, evolutionary rate, and morphological constraints in explaining the observed patterns of unequal diversity. Our study highlights how dramatic differences in morphological disparity in hyperdiverse radiations can evolve under relatively muted evolutionary dynamics. This project is being done with a UC Davis undergraduate student, [Shih-Na Liu](../../mentorship.qmd). 
+
+![Morphospace showing differences in body shape under different flow regimes](morphospace_flow_regimes.jpg){width="60%"}
+
+##### References
+
+<sub>Burns, M.D., J.H. Knouft, and C.B. Dillman. (2024). The role of abiotic and biotic factors in the unequal body shape diversification of a Gondwanan fish radiation (Otophysi: Characiformes). *Evolution* 78(2): 253-266. doi: [10.1093/evolut/qpad203](https://academic.oup.com/evolut/article-abstract/78/2/253/7413144)</sub>
+

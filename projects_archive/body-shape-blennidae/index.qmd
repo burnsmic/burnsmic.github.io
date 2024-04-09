@@ -1,0 +1,28 @@
+---
+title: "Body shape evolution in the family Blennidae"
+description: | 
+  Blenny project description
+# author:
+#   - name: Michael D Burns
+#     url: https://burnsmic.github.io/
+#     orcid: 0000-0002-1381-587X
+#     affiliation: UC Davis
+    # affiliation-url: https://ucsb-meds.github.io/ 
+date: 04-05-2024
+categories: [body shape, blennidae] # self-defined categories
+# citation: 
+#   url: https://burnsmic.github.io/projects/body-shape-blennidae/ 
+image: jfbm-37534-parablennius-pilicornis_1.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+More detail coming soon!
+
+# Project overview
+
+![Blenny pic](jfbm-37534-parablennius-pilicornis_1.jpg)
+
+::: {.gray-italic .center-text}
+Blenny!!
+:::

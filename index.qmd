@@ -1,0 +1,96 @@
+---
+title: "Michael D Burns"
+subtitle: "Integrated macroevolution of fishes"
+page-layout: full
+about: 
+  id: hero-heading
+  template: trestles
+  image: img/profile_pic_square.jpg
+  image-shape: rounded
+  image-width: 10cm
+  links:
+    - text: "{{< ai google-scholar >}} Google Scholar"
+      # text: Google Scholar
+      href: https://scholar.google.com/citations?user=hd9kXzgAAAAJ&hl=en&oi=ao
+    - icon: envelope 
+      text: Email
+      href: mailto:mdburns@ucdavis.edu
+    - icon: github 
+      text: GitHub
+      href: https://github.com/burnsmic
+    - text: "{{< ai orcid >}} ORCID"
+      href: https://orcid.org/0000-0002-1381-587X
+          
+editor: source
+
+format:
+  html:
+    include-in-header:
+        text: |
+          <style>
+          #title-block-header.quarto-title-block.default .quarto-title .title {
+            color: #174C4F;
+          }
+          </style>
+---
+
+:::{#hero-heading}
+
+![](img/phylogeny-trophic-3-2_1.jpg){fig-align="center" fig-alt="A round, colorful phylogeny on a black background with several photographs of fish specimens around the outside."}
+
+::: panel-tabset
+# **Welcome!**
+
+My research takes a multidisciplinary approach to understand the evolutionary processes that gave rise to the exceptional diversity of fishes. Specifically, I am interested in understanding how morphological diversity arises at large geographic scales and over deep evolutionary time. I do this by reconstructing phenotypic evolution across global radiations that encompass hundreds to thousands of fish species. Using a big data approach, I combine phylogenomics, quantitative comparative anatomy, and phylogenetic comparative methods to compare hundreds of replicated evolutionary events across independent lineages and diverse geographies.
+
+I am currently a postdoctoral researcher at University of California, Davis in the [Wainwright Lab](https://fishlab.ucdavis.edu/). 
+
+
+# **Education**
+
+**Oregon State University** \| PhD in Fisheries Science \| Corvallis, OR \| 2018
+
+**University of Hawaiʻi at Mānoa** \| MS in Zoology \| Honolulu, HI
+\| 2012
+
+**Southern Illinois University** \| BS in Zoology \| Carbondale, IL
+\| 2008
+
+<!-- # Highlighted Projects -->
+
+
+
+# **Experience**
+
+**Postdoctoral Researcher** \| Department of Evolution and Ecology, University of California, Davis (2022-Present)
+
+**Rose Postdoctoral Fellow** \| Cornell Lab of Ornithology, Cornell University (2019-2022)
+
+**Postdoctoral Researcher** \| Department of Biological Sciences, Western Michigan University (2018-2019)
+
+
+:::
+
+:::
+
+
+
+## Research Journey
+
+:::{layout="[65,35]"}
+
+:::{#research-journey}
+
+I received my BS in Zoology from Southern Illinois University, where I was lucky enough to work with Dr. Brooks Burr on taxonomy of freshwater darters and jumped into the world of ichthyology.
+
+From there I completed my Master's at the University of Hawaiʻi, Mānoa, under the advisement of Dr. Kassi Cole. Aside from learning to surf and honing my beach volleyball skills, I conducted research on the evolution of reproductive morphology and hermaphrodism in Indo-Pacific gobies.
+
+I completed my PhD in the Sidlauskas Lab at Oregon State University in Spring 2018. My dissertation research addressed the tempo and mode of diversification in African and South American characiforms. I combined molecular phylogenomics, comparative morphology, and phylogenetic comparative methods to better understand the evolutionary processes that gave rise to biodiversity.
+
+I built on my PhD research as an Edward W. Rose Postdoctoral Fellow at the [Cornell Lab of Ornithology](https://www.birds.cornell.edu/home/) and [Cornell University Museum of Vertebrates](https://www.cumv.cornell.edu/) and I am now a [Postdoctoral Researcher](https://fishlab.ucdavis.edu/lab-members-fixed/#Michael%20Burns) in the [Wainwright Lab](https://fishlab.ucdavis.edu/) at the University of California, Davis where I have returned to saltwater and coral reef fishes.
+
+:::
+
+![](img/big_catch.jpg){fig-alt="A man in a big sun hat holding a fishing pole and a very small sunfish."}
+
+:::

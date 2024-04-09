@@ -1,0 +1,17 @@
+---
+title: "Latitudinal diversity of marine fishes"
+description: | 
+  Body shape diversity of marine fishes accelerates at high latitudes
+date: 04-07-2024
+categories: [macroevolution, body shape, marine] 
+image: global_rates_cropped.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+Our macroevolutionary study shows that marine fishes have rapidly expanded their occupation of high-latitude regions in the past 60 million years and experienced a coincident acceleration of body shape diversity.
+
+
+![Rates of body shape evolution (;eft) and body shape disparity right) for global marine fishes](global_rates.jpg)
+
+

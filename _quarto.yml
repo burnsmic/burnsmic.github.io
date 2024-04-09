@@ -1,0 +1,45 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: ""
+  # open-graph: true
+  site-url: https://burnsmic.github.io/
+  favicon: img/fish.ico
+  navbar:
+    logo: img/logo_cropped.png
+    right:
+      - href: index.qmd
+        text: About
+      - href: teaching.qmd
+        text: Teaching & Curation
+      - href: research.qmd
+        text: Research
+      - href: publications.qmd
+        text: Publications
+      # - text: Teaching
+      #   menu: 
+      #     - courses.qmd
+      #     - mentorship.qmd
+  search: false
+  page-footer: 
+    background: light
+    left: Copyright 2024, Michael D Burns
+    right: Built with [{{< fa brands github title="GitHub octocat logo" >}}](https://github.com/burnsmic/burnsmic.github.io){target=_blank} and [Quarto](https://quarto.org/){target=_blank}
+  
+
+format:
+  html:
+    page-layout: full
+    sidebar: false
+    theme:
+       - styles.scss
+    # theme: sandstone
+    # theme: superhero
+    mainfont: Nunito
+    # css: styles.css
+    toc: true
+
+
+editor: source

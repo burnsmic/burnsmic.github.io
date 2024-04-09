@@ -1,0 +1,28 @@
+---
+title: "Tempo and mode of diversification in South American and African characiforms"
+description: | 
+  Dissertation research: Macroevolution of characiform fishes
+date: 06-01-2018
+categories: [macroevolution, body shape, characiformes] 
+image: jpeg-ctenolucius-beani-usnm-078630-220-90.jpg
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+The fish order Characiformes, with over 2000 described species, is one of the largest and most diverse freshwater lineages on the planet.  The order exhibits an unparalleled amount of diversity in morphology and ecology, but little is known about the processes that have formed such a large radiation. My dissertation research is focused on understanding the evolutionary processes that gave rise to body shape and species diversity in the order.  Below are details for each of my dissertation chapters.
+
+**Body shape diversification and convergence in response to trophic ecology in the order Characiformes**
+Morphological convergence plays a central role in the study of evolution. Convergence is typically caused by shared ecological specialization and hints at the underlying selective pressures and adaptive constraints that shape morphological diversification in organisms. Different trophic ecologies, including piscivory, herbivory, insectivory, and detritivory, evolved multiple times in the fish order Characiformes.  I examined body shape morphology in 230 species of characiform fishes, combined with a phylogenetic tree, compared the body shape optimum across different trophic ecologies.  
+
+**Evolutionary modularity and rates of morphological diversification**
+
+Evolutionary modularity allows for different morphological regions to respond independently to selective pressures. Morphological diversity can increase with modularity because the modules can respond independently to different selective regimes, allowing for rapid adaptation to a suite of ecological pressures.  I seek  to analyze body shape diversification in the order to determine if evolutionary modularity and differential selection across different trophic ecologies shaped morphological evolution.
+
+**Lineage diversification and correlated evolution**
+
+Many evolutionary processes predict that rates of morphological evolution should be positively associated with rates of speciation.  I am examining body shape evolution in 230 species of characiform fishes to test the hypothesis that body shape evolution is positively correlated with species formation.
+
+![](figure-3-characiformes-morphospace-2.png)
+
+![](figure-7-surface-tree-lba-recovered.png)
+

@@ -1,0 +1,59 @@
+---
+title: "Teaching and Curation"
+page-layout: full
+title-block-banner: true
+editor: source
+---
+
+## Teaching Philosphy
+
+Teaching and mentoring have both been a major part of my academic career. I realized very early in my career that teaching was a major passion of mine and in particular I celebrate the opportunity to use natural history collections and bioinformatic data to teach the fundamentals of evolution and introduce students to the wonder that exists in the natural world.
+
+I have taught labs and lectures, developed courses, and served as a guest lecturer. I believe strongly in employing active learning principles to engage students with varied learning styles, have participated in workshops and courses on creating inclusive pedagogy, and continually am working to diversify my curricula to better teach diverse student groups.
+
+::: {.grid}
+
+::: {.g-col-2}
+:::
+
+::: {.g-col-4}
+
+#### [Courses](courses.qmd)
+
+:::
+
+::: {.g-col-4}
+
+#### [Mentorship](mentorship.qmd)
+
+:::
+
+::: {.g-col-2}
+:::
+
+:::
+
+### Commitment to Diversity
+
+I strongly believe that the best science comes from diverse voices and when inclusivity and respect are prioritized at all stages. I am committed to recruiting and retaining diverse students and actively work towards this by creating a lab environment rooted in respect and empathy, prioritizing paid research opportunities, and using varied active learning techniques to provide an engaging classroom experience that caters to all backgrounds, abilities, and learning styles. I am committed to continuing to educate myself through diversity workshops and initiatives, and strive to lead with empathy and understanding in all facets of my research, teaching, and mentorship.
+
+## Curatorial Philosophy
+
+Collections, and the data that they contain, are the central component of my teaching and research program. My curatorial philosophy centers around four focus areas to promote diverse museums with broad appeals to scientists, educators, and the public: [growth](#growth), [access](#access), [outreach](#outreach), and [education](#education).
+
+### Growth
+
+Passive collection growth involves developing and maintaining partnerships with local, state, and federal agencies that regularly perform biodiversity assessments to generate regular yearly growth. Active collection growth involves developing an active field component that incorporates research expeditions both domestically and globally.
+
+### Access
+
+Natural history specimens are most useful when the data are freely and easily accessible to all. During my time at the CUMV, I participated in the NSF funded oVert and Scan All Fishes initiatives, whose goals are to provide free, digital 3D vertebrate anatomy models and data to researchers, educators, students, and the public. During my time at the CUMV, I helped digitize and curate \~1000 specimens of African fishes, all of which are freely available on the digital repository morphosource. These included many rare specimens, some of which are only housed at the CUMV, increasing the reach and accessibility of specimens at the museum.
+
+### Outreach
+
+Museums are treasure troves of biodiversity data that can transport a person from rural Oregon to a coral reef in Australia, to the heart of the Amazon Rainforest, all in a single afternoon. Modern technology, including digital specimen collections, facilitate creative and flexible outreach tools that extend the reach of fluid-based collections beyond the traditional museum setting---reaching a more diverse and broad audience.
+
+### Education
+
+One of my greatest passions as a scientist is pulling data out of museum drawers and into the classroom. Museum specimens provide a valuable resource when teaching systematics and evolutionary biology. I have co-developed two courses that utilized museum specimens to actively engage students in the classroom, including an online-course that was made possible through an extensive digitial speciman collection and course database, as well as a hands-on research based course. 
+

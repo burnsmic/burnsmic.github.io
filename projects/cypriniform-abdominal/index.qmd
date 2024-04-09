@@ -1,0 +1,16 @@
+---
+title: "Cypriniform abdominal cavity morphology"
+description: | 
+  Abdominal cavity and intestine length diversity by trophic level
+date: 04-07-2024
+categories: [macroevolution, ecology, cyrpiniforms] 
+image: abdominal_cavity_scan.png
+draft: false # setting this to `true` will prevent your post from appearing on your listing page until you're ready!
+editor: source
+---
+
+We are investigating abdominal cavity volume and intestine length for 123 cypriniform species to see if these fishes exhibit the evolution of larger abdominal cavities or larger body sizes to accommodate larger intestines associated with herbivory and detritivory. Gabby Commisso, a former undergraduate mentee from Cornell University, is leading this project.
+
+![CT scan of a cypriniform showing the abdominal cavity and intestine (in green)](abdominal_cavity_scan.png)
+
+
