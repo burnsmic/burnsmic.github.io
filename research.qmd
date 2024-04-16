@@ -1,6 +1,6 @@
 ---
 title: "Research"
-subtitle: "Current and completed research projects" 
+subtitle: "Current research projects in review or near submission" 
 listing:
   contents: projects
   feed: true

@@ -14,6 +14,8 @@ website:
         text: About
       - href: teaching.qmd
         text: Teaching & Curation
+      - href: mentorship.qmd
+        text: Mentorship
       - href: research.qmd
         text: Research
       - href: publications.qmd
