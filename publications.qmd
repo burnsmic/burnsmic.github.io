@@ -15,6 +15,10 @@ Links to many of my publications are available on [Google Scholar](https://schol
 
 *\*Signifies undergraduate student mentee, †signifies graduate student mentee*
 
+1. **Burns, M.D.**, S.T. Friedman, K.A. Corn, O. Larouche, S.A. Price, P.C. Wainwright, and E.D. Burress. (2024). High-latitude ocean habitats are a crucible of fish body shape diversification. *Evolution Letters* qrae020. doi:[10.1093/evlett/qrae020](https://doi.org/10.1093/evlett/qrae020){target="_blank"}
+	
+1. Kolmann, M.A., E. Poulin, J. Rosen, D. Hemraj-Naraine, and **M.D. Burns**. (2024). Phenotypic convergence is more frequent and stronger in herbivorous freshwater fishes. *Integrative and Comparative Biology* icae037. doi: [10.1093/icb/icae037](https://doi.org/10.1093/icb/icae037){target="_blank"}
+
 1. **Burns, M.D.** and P.H.N. Bragança. (In Press). Body size evolution in Neotropical freshwater fishes: Patterns and processes of reduction and miniaturization. In: Historical Ecology of Neotropical Freshwater Fishes. Roberto Reis and James Albert, eds. Princeton University Press.
 
 1. **Burns, M.D.**, J.H. Knouft, and C.B. Dillman. (2024). The role of abiotic and biotic factors in the unequal body shape diversification of a Gondwanan fish radiation (Otophysi: Characiformes). *Evolution* 78(2): 253-266. doi: [10.1093/evolut/qpad203](https://academic.oup.com/evolut/article-abstract/78/2/253/7413144){target="_blank"}
@@ -23,7 +27,7 @@ Links to many of my publications are available on [Google Scholar](https://schol
 
 3.  **Burns, M.D.**, M.C. Collyer, B.L. Sidlauskas. (2023). Simultaneous integration and modularity underlie the exceptional body shape diversification among characiform fishes. *Evolution* 77(3): 746-762. doi: [10.1093/evolut/qpac070](https://academic.oup.com/evolut/article/77/3/746/6965879){target="_blank"} |  [PDF](https://par.nsf.gov/servlets/purl/10475421){target="_blank"}
 
-4.  †de Brito, V., R. Betancur-R, **M.D. Burns**, T.J. Buser, K.W. Conway, J.P. Fontenelle, M.A. Kolmann, W.T. McCraney, C.E. Thacker, D.D. Bloom. (2022). Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. *Integrative Comparative Biology* 62(2): 406-423. doi: [10.1093/icb/icac085](https://academic.oup.com/icb/article/62/2/406/6604365){target="_blank"}
+4.  †de Brito, V., R. Betancur-R, **M.D. Burns**, T.J. Buser, K.W. Conway, J.P. Fontenelle, M.A. Kolmann, W.T. McCraney, C.E. Thacker, D.D. Bloom. (2022). Patterns of phenotypic evolution associated with marine/freshwater transitions in fishes. *Integrative and Comparative Biology* 62(2): 406-423. doi: [10.1093/icb/icac085](https://academic.oup.com/icb/article/62/2/406/6604365){target="_blank"}
 
 5.  Melo, B.F., B.L. Sidlauskas, T.J. Near, F.F. Roxo, A. Ghezelayagh, L.E. Ochoa, M.L.J. Stiassny, J. Arroyave, J. Chang, B.C. Faircloth, D.J. MacGuigan, R.C. Harrington, R.C. Benine, **M.D. Burns**, K. Hoekzema, N.C. Sanches, J.A. Maldonado-Ocampo, R.M.C. Castro, F. Foresti, M.E. Alfaro, C. Oliveira. 2021. Accelerated diversification explains the exceptional species richness in tropical Characoid fishes. *Systematic Biology* 71(1): 78-92. doi: [doi.org/10.1093/sysbio/syab040](https://doi.org/10.1093/sysbio/syab040){target="_blank"}
 
