@@ -15,9 +15,9 @@ Links to many of my publications are available on [Google Scholar](https://schol
 
 *\*Signifies undergraduate student mentee, †signifies graduate student mentee*
 
-1. **Burns, M.D.**, S.T. Friedman, K.A. Corn, O. Larouche, S.A. Price, P.C. Wainwright, and E.D. Burress. (2024). High-latitude ocean habitats are a crucible of fish body shape diversification. *Evolution Letters* qrae020. doi:[10.1093/evlett/qrae020](https://doi.org/10.1093/evlett/qrae020){target="_blank"}
+1. **Burns, M.D.**, S.T. Friedman, K.A. Corn, O. Larouche, S.A. Price, P.C. Wainwright, and E.D. Burress. (2024). High-latitude ocean habitats are a crucible of fish body shape diversification. *Evolution Letters* qrae020. doi:[10.1093/evlett/qrae020](https://academic.oup.com/evlett/advance-article/doi/10.1093/evlett/qrae020/7666910){target="_blank"}
 	
-1. Kolmann, M.A., E. Poulin, J. Rosen, D. Hemraj-Naraine, and **M.D. Burns**. (2024). Phenotypic convergence is more frequent and stronger in herbivorous freshwater fishes. *Integrative and Comparative Biology* icae037. doi: [10.1093/icb/icae037](https://doi.org/10.1093/icb/icae037){target="_blank"}
+1. Kolmann, M.A., E. Poulin, J. Rosen, D. Hemraj-Naraine, and **M.D. Burns**. (2024). Phenotypic convergence is more frequent and stronger in herbivorous freshwater fishes. *Integrative and Comparative Biology* icae037. doi: [10.1093/icb/icae037](https://academic.oup.com/icb/advance-article-abstract/doi/10.1093/icb/icae037/7667920?redirectedFrom=fulltext){target="_blank"}
 
 1. **Burns, M.D.** and P.H.N. Bragança. (In Press). Body size evolution in Neotropical freshwater fishes: Patterns and processes of reduction and miniaturization. In: Historical Ecology of Neotropical Freshwater Fishes. Roberto Reis and James Albert, eds. Princeton University Press.
 
